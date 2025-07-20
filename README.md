@@ -1,4 +1,4 @@
-# 🚀 Packer Unpacker - Java File Archiving Utility (CUI Based)
+# 🚀 Packer Unpacker - Java File Archiving Utility (CUI Based).
 
 **Packer Unpacker** is a Java-based Command Line Interface (CUI) application developed by **Dnyanesh More** that simulates a basic file archiving system. It allows users to **pack multiple files** into a single custom archive file and later **unpack** them back to their original state.
 
